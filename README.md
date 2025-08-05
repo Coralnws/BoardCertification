@@ -1,2 +1,1 @@
-# BoardCertification
-Certification-agnostic credentialing nucleus for multi-board accreditation and continuing education orchestration complianceengine featuring automated credential verification capabilities
+.
